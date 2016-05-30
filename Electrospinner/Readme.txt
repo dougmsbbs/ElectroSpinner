@@ -1,0 +1,5 @@
+   The Whirl-A-Rama is a open source electrospinning machine designed for anyone to be able to reproduce. It is made from commonly available materials at low cost.
+   It is an entry into the 2016 HackaDay prize contest. You can view it here: https://hackaday.io/project/10599-electrospinning-machine
+   For an introduction to electrospinning, this is a good start: https://en.wikipedia.org/wiki/Electrospinning More links are available from the HackaDay project page listed above.
+   Any questions or comments, my email address is dougmsbbs@hotmail.com
+   NOTE: ALL of the files associated with this project are in a state of flux right now. The project is being actively developed and things not only 'might' change, they 'will' change!

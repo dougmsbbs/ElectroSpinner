@@ -1,0 +1,6 @@
+Rather than go with a long and rarely read license, I'm going to make this simple:
+1: You have the right to use these files as you see fit for noncommercial personal use. Commercial use is banned unless you first contact me and obtain permission. Trust me, it's easy to get that permission. My email is dougmsbbs@hotmail.com
+
+2: I ask that if you make a modification to any of these files that you upload the new ones to the projects github page for anyone else to use.
+
+3: That's it. Simple, eh?
